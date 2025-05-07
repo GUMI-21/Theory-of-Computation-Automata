@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Equivalence of two Finite Automata/56.equivalence of two NFA.pdf"
+                "file": "Pushdown Automata/91.Equivalence of CFG and PDA.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "56.equivalence of two NFA"
+              "title": "91.Equivalence of CFG and PDA"
             }
           }
         ]
@@ -168,16 +168,16 @@
   },
   "active": "ad17146afe54c296",
   "lastOpenFiles": [
-    "Context Free Language/65.Context Free Language.pdf",
-    "Context Free Language/63Regular Grammar.pdf",
-    "NFA/10.Define of NFA.pdf",
+    "Pushdown Automata/85.Pushdown Automata.pdf",
+    "Pushdown Automata",
+    "Context Free Language/80.Pumping Lemma For CFG.pdf",
+    "Context Free Language/80.Greibach Normal Form.pdf",
+    "Context Free Language/76.Chomsky Normal Form.pdf",
+    "Context Free Language/75.Simplification of Context Free Grammar.pdf",
+    "Context Free Language/72.Derivation Tree.pdf",
+    "Context Free Language/74.Ambiguous Grammar.pdf",
     "66.Problems with Regular Languages and Finite Automata.pdf",
-    "Equivalence of two Finite Automata/56.equivalence of two NFA.pdf",
-    "Context Free Language",
-    "Regular Expression/60.Pumping Lemma.pdf",
-    "Equivalence of two Finite Automata",
-    "Regular Expression/53.Regular Expression to NFA.pdf",
-    "Regular Expression/50.NFA to Regular Expression.pdf",
-    "Regular Expression/47.Arden's Theorem_Left recursive.pdf"
+    "Pushdown Automata/91.Equivalence of CFG and PDA.pdf",
+    "Equivalence of two Finite Automata/56.equivalence of two NFA.pdf"
   ]
 }
